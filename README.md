@@ -3,6 +3,7 @@ Final Project in Advanced Lectures in Learning Theory
 
 Spec:
 Maor Cohen 305727851 maorco3@gmail.com
+
 Sergey Timinsky 312739485 sagitiminsky@gmail.com
 
 
